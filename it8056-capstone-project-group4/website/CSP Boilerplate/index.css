@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana;
+    text-align: center;
+}
+
+.logo {
+    font-size: 3em;
+}
+
+header, nav, footer {
+    width: 100%;
+}

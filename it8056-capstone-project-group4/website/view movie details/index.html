@@ -1,0 +1,40 @@
+<html>
+
+<head>
+    <title>View Movie Details</title>
+    <link href="./index.css" rel="stylesheet" />
+</head>
+
+<body>
+    <h1>Search A Movie</h1>
+    <input type="text" id="txtMovieId" />
+    <button id="btnGetMovie">Go</button>
+    <div id="movie-detail">
+        <table>
+            <tr>
+              <th>Description</th>
+              <th>Genre ID</th>
+              <th>Movie ID</th>
+              <th>Name</th>
+              <th>Release Date</th>
+            </tr>
+            <tr>
+              <td id=tr_description></td>
+              <td id="tr_genreID"></td>
+              <td id="tr_movieID"></td>
+              <td id="tr_name"></td>
+              <td id="tr_release_date"></td>
+              <td></td>
+            </tr>
+          </table>
+    </div>
+    <h2>Full Movie Listing</h2>
+    <button id="btnGetMovieListing">Go</button>
+    <div id="movie-detail-all"></div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="./index.js" type="text/javascript"></script>
+</body>
+<br>
+<a href="../all_links/all_links.html">Back to Menu</a>
+</html>

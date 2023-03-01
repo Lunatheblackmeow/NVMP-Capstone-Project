@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register New User</title>
+    <link href="./logreg.css" rel="stylesheet" />
+</head>
+
+<body>
+    <h1>SP Movies</h1>
+    <h2>Register User</h2>
+    <form action="">
+        <label for="Email Address">Please Enter Your Email: </label>
+        <input type="text" id="email"><br>
+        <label for="password">Please Enter A Password:</label>
+        <input type="text" id="password"><br>
+        <input type="submit" value="submit" id="submit-btn">
+    </form>
+
+    <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
+    <script>
+        window.onload = $("#submit-btn").click(function (e) {
+            e.preventDefault();
+            var email = $("#email").val();
+            var password = $("#password").val();
+            var jsonUserBody = {
+                email: email,
+                password: password
+            };
+            console.log(jsonUserBody); //this is to test what is inside jsonUserBody
+            $.ajax({
+                type: "POST",
+                url: "http://127.0.0.1:5000/register",
+                data: JSON.stringify(jsonUserBody),
+                headers: {
+                    "Content-Type": "application/json" // Tell the server, to treat the body as JSON
+                }, 
+                success: function (response) {
+                    if (response) {
+                        window.location = "login.html"; //redirects to login page
+                    } else {
+                        alert("Email taken.");
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>

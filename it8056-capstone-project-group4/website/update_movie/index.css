@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana;
+    text-align: center;
+}
+
+th, td {
+    vertical-align: top;
+}
+
+textarea {
+    height: 200px; width: 350px;
+}

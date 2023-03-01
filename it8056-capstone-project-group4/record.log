@@ -1,0 +1,396 @@
+<<<<<<< Updated upstream
+2023-02-05 15:22:10,132 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 15:22:10,557 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 15:22:10,558 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 15:22:10,594 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 15:22:15,865 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 15:22:15] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 15:22:16,901 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 15:22:16] "GET /movies HTTP/1.1" 200 -
+2023-02-05 15:22:21,661 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 15:22:21] "GET /movies HTTP/1.1" 200 -
+2023-02-05 15:22:57,200 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 15:22:57,544 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 15:22:57,546 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 15:22:57,565 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 15:23:05,709 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 15:23:05] "[35m[1mGET /movies/byid/2 HTTP/1.1[0m" 500 -
+2023-02-05 15:23:08,223 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 15:23:08] "[35m[1mGET /movies HTTP/1.1[0m" 500 -
+2023-02-05 15:24:28,625 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 15:24:28,678 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 15:24:29,129 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 15:24:29,131 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 15:24:29,154 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 15:24:36,305 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 15:24:36,374 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 15:24:36,915 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 15:24:36,916 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 15:24:36,937 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+=======
+2023-02-05 16:49:28,195 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 16:49:28,564 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 16:49:28,565 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 16:49:28,585 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 16:49:36,507 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 16:49:36] "POST /users/login HTTP/1.1" 200 -
+>>>>>>> Stashed changes
+2023-02-05 16:53:58,162 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 16:53:58,611 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 16:53:58,613 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 16:53:58,639 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 16:54:01,617 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 16:54:01] "GET /movies HTTP/1.1" 200 -
+2023-02-05 16:54:04,300 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 16:54:04] "POST /users/login HTTP/1.1" 200 -
+2023-02-05 16:54:13,065 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 16:54:13] "POST /users/login HTTP/1.1" 200 -
+2023-02-05 16:54:16,045 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 16:54:16] "POST /users/login HTTP/1.1" 200 -
+2023-02-05 16:55:43,078 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 16:55:43,117 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 16:55:43,447 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 16:55:43,448 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 16:55:43,466 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 16:55:44,489 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 16:55:44,529 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 16:55:44,875 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 16:55:44,877 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 16:55:44,895 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 16:56:03,921 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 16:56:03] "[31m[1mDELETE /movies/19 HTTP/1.1[0m" 403 -
+2023-02-05 16:56:25,803 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 16:56:25] "POST /users/login HTTP/1.1" 200 -
+2023-02-05 16:56:44,942 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 16:56:44] "[31m[1mDELETE /movies/19 HTTP/1.1[0m" 403 -
+2023-02-05 16:57:17,085 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 16:57:17] "POST /users/login HTTP/1.1" 200 -
+2023-02-05 16:57:23,477 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 16:57:23] "GET /movies HTTP/1.1" 200 -
+2023-02-05 16:58:44,063 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 16:58:44] "[31m[1mDELETE /movies/2 HTTP/1.1[0m" 403 -
+2023-02-05 16:59:05,825 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 16:59:05] "DELETE /movies/2 HTTP/1.1" 200 -
+2023-02-05 17:02:07,054 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:02:07] "OPTIONS /users/login HTTP/1.1" 200 -
+2023-02-05 17:02:07,058 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:02:07] "POST /users/login HTTP/1.1" 200 -
+2023-02-05 17:02:28,553 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:02:28] "OPTIONS /add_movie HTTP/1.1" 200 -
+2023-02-05 17:02:28,555 INFO app Thread-12 (process_request_thread) : {'moviename': 'powergirls', 'description': 'no desc', 'releasedate': '2022-12-12', 'genreid': '2'}
+2023-02-05 17:02:28,558 INFO werkzeug Thread-12 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:02:28] "[35m[1mPOST /add_movie HTTP/1.1[0m" 201 -
+2023-02-05 17:02:53,534 INFO werkzeug Thread-13 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:02:53] "OPTIONS /movies/4 HTTP/1.1" 200 -
+2023-02-05 17:02:53,536 INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:02:53] "[31m[1mDELETE /movies/4 HTTP/1.1[0m" 403 -
+2023-02-05 17:03:04,805 INFO werkzeug Thread-15 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:03:04] "OPTIONS /movies/4 HTTP/1.1" 200 -
+2023-02-05 17:03:04,807 INFO werkzeug Thread-16 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:03:04] "[31m[1mDELETE /movies/4 HTTP/1.1[0m" 403 -
+2023-02-05 17:03:05,976 INFO werkzeug Thread-17 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:03:05] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:05:08,850 INFO werkzeug Thread-18 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:05:08] "OPTIONS /movies/2 HTTP/1.1" 200 -
+2023-02-05 17:05:08,856 INFO werkzeug Thread-19 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:05:08] "[31m[1mDELETE /movies/2 HTTP/1.1[0m" 403 -
+2023-02-05 17:07:02,863 INFO werkzeug Thread-20 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:07:02] "DELETE /movies/5 HTTP/1.1" 200 -
+2023-02-05 17:07:51,468 INFO werkzeug Thread-21 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:07:51] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:08:06,839 INFO werkzeug Thread-22 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:08:06] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:08:07,326 INFO werkzeug Thread-23 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:08:07] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:08:07,515 INFO werkzeug Thread-24 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:08:07] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:08:07,683 INFO werkzeug Thread-25 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:08:07] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:08:08,387 INFO werkzeug Thread-26 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:08:08] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:10:11,560 INFO werkzeug Thread-27 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:10:11] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:10:12,184 INFO werkzeug Thread-28 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:10:12] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:10:12,361 INFO werkzeug Thread-29 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:10:12] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:10:12,552 INFO werkzeug Thread-30 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:10:12] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:10:13,037 INFO werkzeug Thread-31 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:10:13] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:10:54,974 INFO werkzeug Thread-32 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:10:54] "GET /movies/byid/3 HTTP/1.1" 200 -
+2023-02-05 17:11:59,482 INFO werkzeug Thread-33 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:11:59] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:11:59,938 INFO werkzeug Thread-34 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:11:59] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:12:00,110 INFO werkzeug Thread-35 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:12:00] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:12:00,756 INFO werkzeug Thread-36 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:12:00] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:13:40,210 INFO werkzeug Thread-37 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:13:40] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:13:40,826 INFO werkzeug Thread-38 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:13:40] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:13:41,002 INFO werkzeug Thread-39 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:13:41] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:13:41,169 INFO werkzeug Thread-40 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:13:41] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:13:41,898 INFO werkzeug Thread-41 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:13:41] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:13:43,306 INFO werkzeug Thread-42 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:13:43] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:13:43,503 INFO werkzeug Thread-43 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:13:43] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:13:43,686 INFO werkzeug Thread-44 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:13:43] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:13:43,878 INFO werkzeug Thread-45 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:13:43] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:15:27,271 INFO werkzeug Thread-46 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:15:27] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:15:27,687 INFO werkzeug Thread-47 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:15:27] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:15:27,896 INFO werkzeug Thread-48 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:15:27] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:15:28,085 INFO werkzeug Thread-49 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:15:28] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:15:29,068 INFO werkzeug Thread-50 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:15:29] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:15:29,253 INFO werkzeug Thread-51 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:15:29] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:15:29,432 INFO werkzeug Thread-52 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:15:29] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:15:41,022 INFO werkzeug Thread-53 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:15:41] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:18:17,109 INFO werkzeug Thread-54 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:18:17] "GET /movies/byid/3 HTTP/1.1" 200 -
+2023-02-05 17:21:22,786 INFO werkzeug Thread-55 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:21:22] "[33mGET /movies/byid/ HTTP/1.1[0m" 404 -
+2023-02-05 17:21:27,485 INFO werkzeug Thread-56 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:21:27] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:21:27,826 INFO werkzeug Thread-57 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:21:27] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:21:27,996 INFO werkzeug Thread-58 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:21:27] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:21:28,166 INFO werkzeug Thread-59 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:21:28] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:21:28,326 INFO werkzeug Thread-60 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:21:28] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:21:28,517 INFO werkzeug Thread-61 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:21:28] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:21:28,695 INFO werkzeug Thread-62 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:21:28] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:21:28,866 INFO werkzeug Thread-63 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:21:28] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:23:53,901 INFO werkzeug Thread-64 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:23:53] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:23:54,402 INFO werkzeug Thread-65 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:23:54] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:23:54,571 INFO werkzeug Thread-66 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:23:54] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:23:54,751 INFO werkzeug Thread-67 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:23:54] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:23:55,421 INFO werkzeug Thread-68 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:23:55] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:24:01,877 INFO werkzeug Thread-69 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:24:01] "OPTIONS /movies/4 HTTP/1.1" 200 -
+2023-02-05 17:24:01,883 INFO werkzeug Thread-70 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:24:01] "[31m[1mDELETE /movies/4 HTTP/1.1[0m" 403 -
+2023-02-05 17:24:03,461 INFO werkzeug Thread-71 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:24:03] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:25:13,711 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\model\\movie.py', reloading
+2023-02-05 17:25:13,761 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:25:14,411 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:25:14,422 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:25:14,449 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:25:20,642 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\model\\movie.py', reloading
+2023-02-05 17:25:20,673 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:25:21,472 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:25:21,472 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:25:21,511 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:25:26,701 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\model\\movie.py', reloading
+2023-02-05 17:25:26,761 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:25:27,521 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:25:27,521 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:25:27,560 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:25:32,322 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:25:32] "GET /movies/byid/1 HTTP/1.1" 200 -
+2023-02-05 17:25:34,413 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:25:34] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:25:40,954 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:25:40] "GET /movies/byid/5 HTTP/1.1" 200 -
+2023-02-05 17:25:41,551 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:25:41] "GET /movies/byid/5 HTTP/1.1" 200 -
+2023-02-05 17:25:41,761 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:25:41] "GET /movies/byid/5 HTTP/1.1" 200 -
+2023-02-05 17:25:41,941 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:25:41] "GET /movies/byid/5 HTTP/1.1" 200 -
+2023-02-05 17:25:45,181 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:25:45] "GET /movies/byid/4 HTTP/1.1" 200 -
+2023-02-05 17:25:45,802 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:25:45] "GET /movies/byid/4 HTTP/1.1" 200 -
+2023-02-05 17:25:46,211 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:25:46] "GET /movies/byid/4 HTTP/1.1" 200 -
+2023-02-05 17:26:05,982 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:26:05] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:26:34,678 INFO werkzeug Thread-12 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:26:34] "OPTIONS /add_movie HTTP/1.1" 200 -
+2023-02-05 17:26:34,687 INFO app Thread-13 (process_request_thread) : {'moviename': 'your name', 'description': 'jiwiowj', 'releasedate': '2020-02-02', 'genreid': '2'}
+2023-02-05 17:26:34,691 INFO werkzeug Thread-13 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:26:34] "[35m[1mPOST /add_movie HTTP/1.1[0m" 201 -
+2023-02-05 17:26:48,843 INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:26:48] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:26:51,451 INFO werkzeug Thread-15 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:26:51] "OPTIONS /movies/6 HTTP/1.1" 200 -
+2023-02-05 17:26:51,451 INFO werkzeug Thread-16 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:26:51] "[31m[1mDELETE /movies/6 HTTP/1.1[0m" 403 -
+2023-02-05 17:27:08,011 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\model\\movie.py', reloading
+2023-02-05 17:27:08,064 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:27:08,761 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:27:08,761 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:27:08,791 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:27:10,882 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\model\\movie.py', reloading
+2023-02-05 17:27:11,000 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:27:11,591 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:27:11,591 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:27:11,623 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:27:12,671 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\model\\movie.py', reloading
+2023-02-05 17:27:12,733 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:27:13,374 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:27:13,381 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:27:13,421 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:27:17,573 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\model\\movie.py', reloading
+2023-02-05 17:27:17,623 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:27:18,351 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:27:18,355 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:27:18,381 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:27:24,001 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:27:24] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:27:26,646 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:27:26] "OPTIONS /movies/6 HTTP/1.1" 200 -
+2023-02-05 17:27:26,651 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:27:26] "[31m[1mDELETE /movies/6 HTTP/1.1[0m" 403 -
+2023-02-05 17:27:34,102 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\model\\movie.py', reloading
+2023-02-05 17:27:34,194 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:27:34,961 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:27:34,974 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:27:35,013 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:27:41,047 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:27:41] "OPTIONS /movies/6 HTTP/1.1" 200 -
+2023-02-05 17:27:41,051 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:27:41] "[31m[1mDELETE /movies/6 HTTP/1.1[0m" 403 -
+2023-02-05 17:27:51,031 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:27:51] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:27:59,470 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:27:59] "OPTIONS /movies/6 HTTP/1.1" 200 -
+2023-02-05 17:27:59,481 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:27:59] "[31m[1mDELETE /movies/6 HTTP/1.1[0m" 403 -
+2023-02-05 17:28:10,151 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:28:10] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:29:37,341 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:29:37] "GET /movies/byid/6 HTTP/1.1" 200 -
+2023-02-05 17:29:40,292 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:29:40] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:31:07,784 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:31:07] "DELETE /movies/6 HTTP/1.1" 200 -
+2023-02-05 17:31:43,135 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:31:43] "OPTIONS /add_movie HTTP/1.1" 200 -
+2023-02-05 17:31:43,141 INFO app Thread-12 (process_request_thread) : {'moviename': 'brooklyn', 'description': 'hello', 'releasedate': '2019-1-9', 'genreid': '3'}
+2023-02-05 17:31:43,151 INFO werkzeug Thread-12 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:31:43] "[35m[1mPOST /add_movie HTTP/1.1[0m" 201 -
+2023-02-05 17:32:00,573 INFO werkzeug Thread-13 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:32:00] "OPTIONS /movies/7 HTTP/1.1" 200 -
+2023-02-05 17:32:00,581 INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:32:00] "[31m[1mDELETE /movies/7 HTTP/1.1[0m" 403 -
+2023-02-05 17:32:12,825 INFO werkzeug Thread-15 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:32:12] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:35:36,801 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:35:36,865 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:35:37,662 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:35:37,662 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:35:37,703 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:35:42,733 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:35:42] "OPTIONS /movies/7 HTTP/1.1" 200 -
+2023-02-05 17:35:42,744 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:35:42] "DELETE /movies/7 HTTP/1.1" 200 -
+2023-02-05 17:36:04,643 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:36:04] "OPTIONS /add_movie HTTP/1.1" 200 -
+2023-02-05 17:36:04,651 INFO app Thread-5 (process_request_thread) : {'moviename': 'svcbvnbmn', 'description': 'swxw', 'releasedate': '2002-11-22', 'genreid': '2'}
+2023-02-05 17:36:04,651 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:36:04] "[35m[1mPOST /add_movie HTTP/1.1[0m" 201 -
+2023-02-05 17:43:25,641 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:43:25] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:43:26,482 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:43:26] "GET /movies/byid/8 HTTP/1.1" 200 -
+2023-02-05 17:43:31,299 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:43:31] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:44:33,651 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:44:33] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:47:23,101 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:47:23,137 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:47:23,744 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:47:23,744 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:47:23,782 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:47:24,831 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:47:24,887 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:47:25,501 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:47:25,501 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:47:25,536 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:47:45,842 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:47:45] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:47:46,867 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:47:46] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:47:47,052 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:47:47] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:47:47,242 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:47:47] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:47:47,423 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:47:47] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:47:50,292 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:47:50] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:47:50,483 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:47:50] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:47:54,201 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:47:54] "GET /movies/byid/1 HTTP/1.1" 200 -
+2023-02-05 17:47:54,442 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:47:54] "GET /movies/byid/1 HTTP/1.1" 200 -
+2023-02-05 17:48:03,955 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:48:03] "GET /movies/byid/8 HTTP/1.1" 200 -
+2023-02-05 17:48:16,495 INFO werkzeug Thread-12 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:48:16] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:48:20,476 INFO werkzeug Thread-13 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:48:20] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:48:24,862 INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:48:24] "GET /movies/byid/8 HTTP/1.1" 200 -
+2023-02-05 17:48:44,063 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:48:44,112 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:48:44,792 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:48:44,803 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:48:44,843 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:49:47,937 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:49:47,997 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:49:48,677 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:49:48,677 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:49:48,710 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:49:49,756 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:49:49,842 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:49:50,427 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:49:50,427 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:49:50,460 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:49:55,652 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:49:55] "GET /movies/byid/1 HTTP/1.1" 200 -
+2023-02-05 17:49:57,102 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:49:57] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:50:00,382 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:50:00] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:52:05,147 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:52:05,205 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:52:05,893 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:52:05,902 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:52:05,933 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:52:12,227 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:52:12,292 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:52:12,892 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:52:12,902 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:52:12,940 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:52:13,993 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:52:14,058 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:52:14,862 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:52:14,863 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:52:14,904 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:52:44,882 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:52:44,942 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:52:45,665 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:52:45,672 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:52:45,692 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:52:56,711 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:52:56] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:52:57,562 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:52:57] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:52:57,740 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:52:57] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:52:57,902 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:52:57] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:52:58,072 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:52:58] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:52:58,252 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:52:58] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:52:58,442 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:52:58] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:52:59,392 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:52:59] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:53:08,702 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:53:08,745 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:53:09,332 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:53:09,332 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:53:09,353 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:53:11,443 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:53:11,505 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:53:12,156 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:53:12,162 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:53:12,198 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:53:14,279 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:53:14,307 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:53:14,932 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:53:14,932 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:53:14,982 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:53:19,164 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:53:19,225 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:53:19,872 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:53:19,872 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:53:19,904 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:53:20,952 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:53:21,016 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:53:21,612 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:53:21,612 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:53:21,652 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:53:23,812 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:53:23] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:53:24,396 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:53:24] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:53:24,562 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:53:24] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:53:24,735 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:53:24] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 17:53:25,366 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:53:25] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:58:31,224 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:58:31] "GET /movies/byid/3 HTTP/1.1" 200 -
+2023-02-05 17:58:31,403 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:58:31] "GET /movies/byid/3 HTTP/1.1" 200 -
+2023-02-05 17:58:35,112 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:58:35] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:58:43,103 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:58:43] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:58:50,222 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:58:50,296 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:58:51,027 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:58:51,032 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:58:51,079 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:58:52,114 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:58:52,164 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:58:52,803 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:58:52,803 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:58:52,834 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:58:55,943 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:58:56,004 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:58:56,682 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:58:56,690 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:58:56,724 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:59:01,913 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:59:01,973 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:59:02,719 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:59:02,719 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:59:02,752 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:59:04,842 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 17:59:04,912 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 17:59:05,542 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 17:59:05,542 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 17:59:05,591 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 17:59:11,445 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:59:11] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:59:15,503 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:59:15] "GET /movies/byid/8 HTTP/1.1" 200 -
+2023-02-05 17:59:16,062 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:59:16] "GET /movies HTTP/1.1" 200 -
+2023-02-05 17:59:22,226 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 17:59:22] "GET /movies HTTP/1.1" 200 -
+2023-02-05 18:00:15,492 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 18:00:15,556 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 18:00:16,429 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 18:00:16,431 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 18:00:16,475 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 18:00:29,188 INFO werkzeug MainThread :  * Detected change in 'c:\\Users\\65901\\Documents\\GitHub\\it8056-capstone-project-group4\\server\\app.py', reloading
+2023-02-05 18:00:29,285 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-05 18:00:29,996 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-05 18:00:30,003 INFO werkzeug MainThread :  * Debugger PIN: 417-664-756
+2023-02-05 18:00:30,022 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-05 18:10:42,463 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:10:42] "OPTIONS /movies/8 HTTP/1.1" 200 -
+2023-02-05 18:10:42,477 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:10:42] "DELETE /movies/8 HTTP/1.1" 200 -
+2023-02-05 18:10:44,634 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:10:44] "GET /movies HTTP/1.1" 200 -
+2023-02-05 18:10:49,893 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:10:49] "GET /movies HTTP/1.1" 200 -
+2023-02-05 18:12:13,194 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:12:13] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 18:12:13,883 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:12:13] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 18:12:14,702 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:12:14] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 18:12:14,896 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:12:14] "GET /movies/byid/2 HTTP/1.1" 200 -
+2023-02-05 18:12:17,844 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:12:17] "GET /movies HTTP/1.1" 200 -
+2023-02-05 18:12:19,043 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:12:19] "GET /movies/byid/3 HTTP/1.1" 200 -
+2023-02-05 18:12:35,534 INFO werkzeug Thread-12 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:12:35] "GET /movies/byid/1 HTTP/1.1" 200 -
+2023-02-05 18:12:37,293 INFO werkzeug Thread-13 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:12:37] "GET /movies/byid/4 HTTP/1.1" 200 -
+2023-02-05 18:12:46,083 INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:12:46] "GET /movies HTTP/1.1" 200 -
+2023-02-05 18:13:50,574 INFO werkzeug Thread-15 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:13:50] "GET /movies HTTP/1.1" 200 -
+2023-02-05 18:13:52,858 INFO werkzeug Thread-16 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:13:52] "OPTIONS /movies/9 HTTP/1.1" 200 -
+2023-02-05 18:13:52,867 INFO werkzeug Thread-17 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:13:52] "DELETE /movies/9 HTTP/1.1" 200 -
+2023-02-05 18:13:54,948 INFO werkzeug Thread-18 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:13:54] "GET /movies HTTP/1.1" 200 -
+2023-02-05 18:13:57,483 INFO werkzeug Thread-19 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:13:57] "GET /movies HTTP/1.1" 200 -
+2023-02-05 18:13:59,347 INFO werkzeug Thread-20 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:13:59] "GET /movies/byid/1 HTTP/1.1" 200 -
+2023-02-05 18:14:44,702 INFO werkzeug Thread-21 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:14:44] "OPTIONS /users/login HTTP/1.1" 200 -
+2023-02-05 18:14:44,709 INFO werkzeug Thread-22 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:14:44] "POST /users/login HTTP/1.1" 200 -
+2023-02-05 18:15:15,106 INFO werkzeug Thread-23 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:15:15] "OPTIONS /movies/10 HTTP/1.1" 200 -
+2023-02-05 18:15:15,114 INFO werkzeug Thread-24 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:15:15] "[31m[1mDELETE /movies/10 HTTP/1.1[0m" 403 -
+2023-02-05 18:15:37,838 INFO werkzeug Thread-25 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:15:37] "OPTIONS /users/login HTTP/1.1" 200 -
+2023-02-05 18:15:37,843 INFO werkzeug Thread-26 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:15:37] "POST /users/login HTTP/1.1" 200 -
+2023-02-05 18:15:42,313 INFO werkzeug Thread-27 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:15:42] "OPTIONS /movies/10 HTTP/1.1" 200 -
+2023-02-05 18:15:42,327 INFO werkzeug Thread-28 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:15:42] "DELETE /movies/10 HTTP/1.1" 200 -
+2023-02-05 18:15:44,143 INFO werkzeug Thread-29 (process_request_thread) : 127.0.0.1 - - [05/Feb/2023 18:15:44] "GET /movies HTTP/1.1" 200 -
+2023-02-06 20:31:48,300 INFO werkzeug MainThread :  * Restarting with stat
+2023-02-06 20:31:48,759 WARNING werkzeug MainThread :  * Debugger is active!
+2023-02-06 20:31:48,761 INFO werkzeug MainThread :  * Debugger PIN: 966-797-171
+2023-02-06 20:31:48,814 INFO werkzeug Thread-1 (inner) :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2023-02-06 20:32:17,985 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [06/Feb/2023 20:32:17] "OPTIONS /users/login HTTP/1.1" 200 -
+2023-02-06 20:32:18,000 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [06/Feb/2023 20:32:18] "POST /users/login HTTP/1.1" 200 -
+2023-02-06 20:33:15,028 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [06/Feb/2023 20:33:15] "[33mGET /movies/byid/ironman%202 HTTP/1.1[0m" 404 -
+2023-02-06 20:33:59,735 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [06/Feb/2023 20:33:59] "OPTIONS /register HTTP/1.1" 200 -
+2023-02-06 20:33:59,737 INFO app Thread-6 (process_request_thread) : {'email': 'july@hotmail.com', 'password': '1234'}
+2023-02-06 20:33:59,743 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [06/Feb/2023 20:33:59] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2023-02-06 20:34:57,722 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [06/Feb/2023 20:34:57] "OPTIONS /users/login HTTP/1.1" 200 -
+2023-02-06 20:34:57,726 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [06/Feb/2023 20:34:57] "POST /users/login HTTP/1.1" 200 -
+2023-02-06 20:35:13,346 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [06/Feb/2023 20:35:13] "OPTIONS /add_movie HTTP/1.1" 200 -
+2023-02-06 20:35:13,349 INFO app Thread-10 (process_request_thread) : {'moviename': 'asd', 'description': 'asd', 'releasedate': '2017-10-8', 'genreid': 'asdsd'}
+2023-02-06 20:35:13,353 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [06/Feb/2023 20:35:13] "[35m[1mPOST /add_movie HTTP/1.1[0m" 500 -
+2023-02-06 20:35:39,625 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [06/Feb/2023 20:35:39] "OPTIONS /add_movie HTTP/1.1" 200 -
+2023-02-06 20:35:39,627 INFO app Thread-12 (process_request_thread) : {'moviename': 'asdasd', 'description': '2', 'releasedate': '2019-8-10', 'genreid': 'a'}
+2023-02-06 20:35:39,631 INFO werkzeug Thread-12 (process_request_thread) : 127.0.0.1 - - [06/Feb/2023 20:35:39] "[35m[1mPOST /add_movie HTTP/1.1[0m" 500 -
